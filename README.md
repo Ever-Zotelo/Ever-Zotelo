@@ -1,7 +1,5 @@
-<!-- Header Banner (Animated GIF in repo: assets/header-banner.gif) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ever-Zotelo/Ever-Zotelo/main/assets/header-banner.gif" width="100%" alt="Ever Marecos Zotelo - Software Developer" />
-</p>
+<!-- Header Banner (Animated wave background, crisp static text) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=200&section=header&text=Ever%20Marecos%20Zotelo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Frontend&descAlignY=62&descSize=16" width="100%"/>
 
 <!-- Animated Role Line -->
 <p align="center">
@@ -54,7 +52,7 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 | :--- | :--- | :--- | :--- |
 | **Project 1** | Concise summary of what the app does and the problem it solves. | `Java` `Spring Boot` `MySQL` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-1) |
 | **Project 2** | Concise summary of your mobile app features and flow. | `Kotlin` `Android Studio` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-2) |
-| **Project 3** | Concise summary of your web app or UI project. | `React` `JavaScript` `CSS` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-3)[cite: 1, 2]
+| **Project 3** | Concise summary of your web app or UI project. | `React` `JavaScript` `CSS` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-3) |
 
 ---
 
@@ -73,9 +71,7 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)[cite: 1, 2]
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |[cite: 1, 2]
 
-<!-- Footer Banner (Animated GIF in repo: assets/footer-banner.gif) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ever-Zotelo/Ever-Zotelo/main/assets/footer-banner.gif" width="100%" alt="Crafted with care • Málaga" />
-</p>
+<!-- Footer Banner (Animated wave background, crisp static text) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
