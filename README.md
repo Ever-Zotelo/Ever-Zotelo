@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface[cite: 2]. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
+I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
 
 ### Tech Stack
 
@@ -38,17 +38,22 @@ I'm a software developer focused on building structured, reliable applications f
 - **[Project 1 — Backend / API Service](https://github.com/Ever-Zotelo/your-repo-1)**  
   *Java · Spring Boot · MySQL* — RESTful backend application handling business logic, validation, and relational data persistence.
 - **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
-  *Kotlin · Android Studio* — Native Android app built with structured layouts, smooth navigation, and intuitive mobile workflows[cite: 2].
+  *Kotlin · Android Studio* — Native Android app built with structured layouts, smooth navigation, and intuitive mobile workflows.
 - **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
-  *React · JavaScript · HTML5 · CSS3* — Responsive web interface focused on reusable components, clean styling, and clear user interactions[cite: 2].
+  *React · JavaScript · HTML5 · CSS3* — Responsive web interface focused on reusable components, clean styling, and clear user interactions.
 
 ---
 
-### GitHub Activity
+### Engineering & Activity
+
+> *"Consistent progress beats sporadic bursts — small commits, clear scopes, and code meant to be read later."*
+
+- **Commit Cadence:** Iterative commits per feature or fix rather than giant end-of-week dumps.
+- **Code Organization:** Separation of concerns across layers, clear naming, and structured repositories.
+- **Continuous Building:** Active practice across backend APIs, Android apps, frontend interfaces, and database queries.
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ever-Zotelo&show_icons=true&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0" alt="Ever-Zotelo GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo&layout=compact&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ever-Zotelo&bg_color=090d16&color=38bdf8&line=0284c7&point=22d3ee&area=true&area_color=172554&title_color=f8fafc&hide_border=true" width="96%" alt="Ever-Zotelo Contribution Timeline" />
 </p>
 
 ---
@@ -59,7 +64,7 @@ I'm a software developer focused on building structured, reliable applications f
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/ever-zotelo](https://www.linkedin.com/in/ever-zotelo) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)
 
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
