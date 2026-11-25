@@ -1,66 +1,78 @@
-<!-- Banner superior -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:1f6feb&height=190&section=header&text=Ever%20Marecos%20Zotelo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Web&descAlignY=62&descSize=18" width="100%"/>
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:1f6feb&height=185&section=header&text=Ever%20Marecos%20Zotelo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%E2%80%A2%20Mobile%20%E2%80%A2%20Frontend&descAlignY=62&descSize=17" width="100%"/>
 
-<!-- Subtítulo animado -->
+<!-- Animated Role Line -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Desarrollador+de+Aplicaciones+Multiplataforma;Backend+con+Java+%26+Spring+Boot;Apps+M%C3%B3viles+en+Android+con+Kotlin;Interfaces+Web+con+React+%26+JavaScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&lines=I'm+a+Software+Developer+building+reliable+apps;Backend+with+Java+%26+Spring+Boot;Mobile+Apps+with+Kotlin+%26+Android+Studio;Web+Interfaces+with+React+%26+JavaScript" alt="Typing SVG" />
 </p>
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-Soy **Ever**, desarrollador de software en Málaga. Me dedico a diseñar y construir aplicaciones completas —desde APIs y lógica de negocio en el backend hasta interfaces web y apps móviles nativas— cuidando que el código sea limpio, escalable y fácil de mantener.
+I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web[cite: 2]. I care about clear architecture, solid database design, and writing code that other developers can read and scale without friction.
 
-- ⚙️ **Mi enfoque:** Arquitectura backend sólida, modelado eficiente de bases de datos y experiencias de usuario claras.
-- 🚀 **Intereses actuales:** Desarrollo backend con **Java / Spring Boot**, aplicaciones móviles en **Android (Kotlin)** y desarrollo web con **React**.
-- 🤝 **Objetivo:** Aportar valor en proyectos reales, colaborar en equipo con buenas prácticas (Git, Clean Code) y seguir creciendo como desarrollador.
-
----
-
-### 🛠️ Stack Tecnológico
-
-| Área | Tecnologías |
-| :--- | :--- |
-| **Backend** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white) |
-| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Móvil** | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) |
-| **Bases de Datos** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=flat-square&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+- 🎯 **Core focus:** Backend services, relational & NoSQL data modeling, mobile apps, and modern web interfaces.
+- ⚡ **How I work:** Structured problem-solving, clean code habits, and consistent version control with Git[cite: 2].
+- 📍 **Location:** Málaga, Spain — open to junior roles, internships, and collaborative tech teams[cite: 2].
 
 ---
 
-### 🚀 Proyectos Destacados
+### 🛠️ Tech Stack
 
-| Proyecto | Descripción | Stack | Enlace |
+#### Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+#### Frontend & Web
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### Mobile
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+#### Databases
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What It Does | Tech | Repository |
 | :--- | :--- | :--- | :--- |
-| **Proyecto 1** | Breve frase de qué hace y qué problema resuelve. | `Java` `Spring Boot` `MySQL` | [Ver repositorio →](https://github.com/Ever-Zotelo/tu-repo-1) |
-| **Proyecto 2** | Breve frase de qué hace tu aplicación móvil. | `Kotlin` `Android Studio` | [Ver repositorio →](https://github.com/Ever-Zotelo/tu-repo-2) |
-| **Proyecto 3** | Breve frase de qué hace tu aplicación web. | `React` `JavaScript` `CSS` | [Ver repositorio →](https://github.com/Ever-Zotelo/tu-repo-3) |
+| **Project 1** | Concise summary of what the app does and the problem it solves. | `Java` `Spring Boot` `MySQL` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-1) |
+| **Project 2** | Concise summary of your mobile app features and flow. | `Kotlin` `Android Studio` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-2) |
+| **Project 3** | Concise summary of your web app or UI project. | `React` `JavaScript` `CSS` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-3) |
 
 ---
 
-### 📊 Actividad en GitHub
+### 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ever-Zotelo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Estadísticas de Ever-Zotelo" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Lenguajes más usados" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ever-Zotelo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Ever-Zotelo GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
 
 ---
 
-### 📫 Contacto
+### 📬 Get in Touch
 
-<p align="center">
-  <a href="mailto:emarecoszotelo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emarecoszotelo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/TU-USUARIO-LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Ever-Zotelo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Ever--Zotelo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+Want to chat about a role, internship, or project? Reach out directly:
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
+| Channel | Link / Details |
+| :--- | :--- |
+| 📧 **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
+| 💻 **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:161b22,100:1f6feb&height=95&section=footer" width="100%"/>
