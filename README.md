@@ -1,8 +1,6 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=205&section=header&text=Ever%20Marecos%20Zotelo&fontSize=40&fontColor=f8fafc&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Web&descAlignY=63&descSize=16" width="100%"/>
 
-> *"Turning ideas into clean, practical, and maintainable software across backend, mobile, and web."*
-
 ### About Me
 
 I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
