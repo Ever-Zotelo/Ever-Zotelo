@@ -1,140 +1,136 @@
-<!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=205&section=header&text=Ever%20Marecos%20Zotelo&fontSize=40&fontColor=f8fafc&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Web&descAlignY=63&descSize=16" width="100%"/>
+# Hi, I'm Ever Alejandro Marecos Zotelo 👋
 
-<h2 align="center">ABOUT ME</h2>
+### Software Developer | Java · Web · Mobile
 
-<p align="center">
-  Software Developer focused on building structured, reliable applications from the data layer to the user interface.
-  <br/>
-  Interested in backend development, database design, web technologies and mobile applications.
-  <br/>
-  I enjoy understanding how software components work together to create practical and maintainable solutions.
-</p>
+📍 Málaga, Spain
 
 ---
 
-<h2 align="center">TECH STACK</h2>
+## About Me
 
-<h3 align="center">01 / BACKEND DEVELOPMENT</h3>
+I'm a software developer interested in building useful, well-structured applications and understanding how software works from the inside out.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring&theme=dark" alt="Java and Spring Boot"/>
-</p>
+I enjoy working with backend logic, databases and user interfaces, exploring how different technologies connect to create complete applications.
 
-<h3 align="center">02 / FRONTEND & WEB</h3>
+I'm continuously improving my programming skills through personal projects, collaborative development and hands-on learning.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css&theme=dark" alt="JavaScript React HTML CSS"/>
-</p>
-
-<h3 align="center">03 / MOBILE DEVELOPMENT</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" alt="Kotlin and Android Studio"/>
-</p>
-
-<h3 align="center">04 / DATABASES</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="55" height="55" alt="Oracle"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-Database%20Querying-172554?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PL%2FSQL-Oracle%20Development-172554?style=flat-square&logo=oracle&logoColor=white"/>
-</p>
-
-<h3 align="center">05 / TOOLS & VERSION CONTROL</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub"/>
-</p>
+- Interested in backend development, databases and application development
+- Working with Java, JavaScript and SQL
+- Exploring web and mobile development
+- Enjoy working in teams and solving technical problems
+- Focused on writing clean, organized and maintainable code
 
 ---
 
-<h2 align="center">FEATURED PROJECTS</h2>
+## Technologies and Tools
 
-<p align="center">
-  Selected projects showcasing my development skills and technical experience.
-</p>
+### Programming Languages
 
-### ◈ PROJECT 01 — BACKEND / API SERVICE
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=java,js,kotlin&theme=dark](https://skillicons.dev/icons?i=java,js,kotlin\&theme=dark)" />
+\</p>
 
-**Java · Spring Boot · MySQL**
+### Frameworks and Libraries
 
-RESTful backend application focused on business logic, validation and relational data persistence.
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=react&theme=dark](https://skillicons.dev/icons?i=react\&theme=dark)" />
+\</p>
 
-[View Repository](https://github.com/Ever-Zotelo/your-repo-1)
+### Web Development
 
-### ◈ PROJECT 02 — ANDROID MOBILE APP
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=html,css&theme=dark](https://skillicons.dev/icons?i=html,css\&theme=dark)" />
+\</p>
 
-**Kotlin · Android Studio**
+### Databases
 
-Native Android application focused on structured layouts, navigation and mobile user experience.
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=mysql,mongodb\&theme=dark)" />
+&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg)" width="48" height="48" alt="Oracle" />
+\</p>
 
-[View Repository](https://github.com/Ever-Zotelo/your-repo-2)
+\<p>
+&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=databricks\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/PL%2FSQL-C74634?style=flat-square&logo=oracle&logoColor=white](https://img.shields.io/badge/PL%2FSQL-C74634?style=flat-square\&logo=oracle\&logoColor=white)" />
+\</p>
 
-### ◈ PROJECT 03 — WEB APPLICATION
+### Development Tools
 
-**React · JavaScript · HTML5 · CSS3**
-
-Responsive web application focused on reusable components and intuitive user interactions.
-
-[View Repository](https://github.com/Ever-Zotelo/your-repo-3)
-
-<!-- Replace the example project descriptions and repository URLs with your actual projects. -->
-
----
-
-<h2 align="center">CURRENT FOCUS</h2>
-
-<p align="center">
-  Backend Development &nbsp; • &nbsp; API Development
-  <br/>
-  Database Management &nbsp; • &nbsp; Software Architecture
-  <br/>
-  Web & Mobile Applications
-</p>
+\<p align="left">
+&#x20; \<img src="[https://skillicons.dev/icons?i=androidstudio,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=androidstudio,git,github,vscode\&theme=dark)" />
+\</p>
 
 ---
 
-<h2 align="center">GITHUB ACTIVITY</h2>
+## Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ever-Zotelo&bg_color=090d16&color=38bdf8&line=0284c7&point=22d3ee&area=true&area_color=172554&title_color=f8fafc&hide_border=true" width="96%" alt="Ever-Zotelo Contribution Timeline"/>
-</p>
+### [Java-Exercise](https://github.com/Ever-Zotelo/Java-Exercise)
+
+**Java · Object-Oriented Programming**
+
+A Java practice project focused on exception handling and programming logic.
+
+### [P2.Ejercicios-CSS](https://github.com/Ever-Zotelo/P2.Ejercicios-CSS)
+
+**HTML · CSS**
+
+A collection of web development exercises focused on HTML structure and CSS styling.
 
 ---
 
-<h2 align="center">LET'S CONNECT</h2>
+## Education
 
-<p align="center">
-  <i>Interested in collaborating or discussing technology? Feel free to reach out.</i>
-</p>
+- **Higher Degree in Multiplatform Application Development (DAM)**
+  MEDAC · Málaga · 2025–2027
 
-<p align="center">
-  <a href="mailto:emarecoszotelo@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ever-zotelo">
-    <img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ever-Zotelo">
-    <img src="https://img.shields.io/badge/GITHUB-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+- **Intermediate Degree in Microcomputer Systems and Networks (SMR)**
 
-<p align="center">
-  <a href="mailto:emarecoszotelo@gmail.com">emarecoszotelo@gmail.com</a>
-  <br/>
-  Málaga, Spain
-</p>
+---
 
-<!-- FOOTER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
+## Soft Skills
+
+- Problem-solving and analytical thinking
+- Teamwork and collaboration
+- Adaptability and continuous learning
+- Organization and attention to detail
+- Patience and empathy
+- Fast learning and initiative
+
+---
+
+## Currently Focused On
+
+- Improving my Java programming and object-oriented design skills
+- Developing applications and working with databases
+- Learning more about Android development
+- Strengthening my frontend skills with JavaScript and React
+- Building projects that help me grow as a developer
+
+---
+
+## GitHub Statistics
+
+\<p align="center">
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=Ever-Zotelo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true](https://github-readme-stats.vercel.app/api?username=Ever-Zotelo\&show_icons=true\&theme=github_dark\&hide_border=true\&include_all_commits=true)" />
+&#x20; \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo&layout=compact&theme=github_dark&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo\&layout=compact\&theme=github_dark\&hide_border=true)" />
+\</p>
+
+---
+
+## Contact
+
+\<p align="left">
+&#x20; \<a href="mailto\:emarecoszotelo\@gmail.com">
+&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/ever-zotelo](https://www.linkedin.com/in/ever-zotelo)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+---
+
+*Always learning, building and improving.*
