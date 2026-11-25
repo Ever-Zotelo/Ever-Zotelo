@@ -3,7 +3,7 @@
 
 ### About Me
 
-I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
+I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface[cite: 2]. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
 
 ### Tech Stack
 
@@ -36,11 +36,11 @@ I'm a software developer focused on building structured, reliable applications f
 ### Featured Projects
 
 - **[Project 1 — Backend / API Service](https://github.com/Ever-Zotelo/your-repo-1)**  
-  *Java · Spring Boot · MySQL* — Clear summary of what it builds, how data is structured, and the problem it solves.
+  *Java · Spring Boot · MySQL* — RESTful backend application handling business logic, validation, and relational data persistence.
 - **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
-  *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features.
+  *Kotlin · Android Studio* — Native Android app built with structured layouts, smooth navigation, and intuitive mobile workflows[cite: 2].
 - **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
-  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience
+  *React · JavaScript · HTML5 · CSS3* — Responsive web interface focused on reusable components, clean styling, and clear user interactions[cite: 2].
 
 ---
 
@@ -59,7 +59,7 @@ I'm a software developer focused on building structured, reliable applications f
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/ever-zotelo](https://www.linkedin.com/in/ever-zotelo) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |
 
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
