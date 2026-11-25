@@ -68,6 +68,6 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 
 <!-- Footer Banner (Animated wave background, crisp static text) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
-```[cite: 1, 2]
+```
 
 Con este ajuste el recorrido de lectura es más directo y sobrio: nombre y especialidad en la cabecera, párrafo de presentación sin repeticiones y de inmediato el bloque tecnológico y los proyectos[cite: 1]. ¿Qué te parece cómo queda el ritmo ahora?
