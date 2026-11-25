@@ -5,12 +5,6 @@
 
 I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
 
-- **Core Focus:** Backend services & APIs, relational/NoSQL databases, mobile apps, and responsive web interfaces
-- **Engineering Habits:** Object-oriented design, clean code practices, and consistent version control with Git
-- **Availability:** Based in Málaga, Spain — open to junior developer roles, internships, and team projects[cite: 1, 2]
-
----
-
 ### Tech Stack
 
 #### Backend
