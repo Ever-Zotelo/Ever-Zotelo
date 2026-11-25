@@ -51,7 +51,7 @@
 <h3 align="center">05 / TOOLS & VERSION CONTROL</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub Visual Studio Code"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub"/>
 </p>
 
 ---
