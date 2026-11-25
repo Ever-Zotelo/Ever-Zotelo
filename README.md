@@ -1,20 +1,13 @@
 <!-- Header Banner (Animated wave background, crisp static text) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=200&section=header&text=Ever%20Marecos%20Zotelo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Frontend&descAlignY=62&descSize=16" width="100%"/>
 
-<!-- Animated Role Line -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=22D3EE&center=true&vCenter=true&width=650&lines=I'm+a+Software+Developer+crafting+scalable+apps;Backend+Engineering+with+Java+%26+Spring+Boot;Mobile+Apps+with+Kotlin+%26+Android+Studio;Web+Interfaces+with+React+%26+JavaScript" alt="Typing SVG" />
-</p>
-
----
-
 ### About Me
 
 I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web. I care about clear architecture, reliable database design, and writing code that other developers can read, test, and scale without friction.
 
 - **Core focus:** Backend APIs and services, relational & NoSQL databases, mobile apps, and responsive web interfaces
 - **Engineering mindset:** Structured problem-solving, clean code practices, and consistent version control with Git
-- **Location:** Málaga, Spain — open to junior developer roles, internships, and collaborative engineering teams[cite: 2]
+- **Location:** Málaga, Spain — open to junior developer roles, internships, and collaborative engineering teams
 
 ---
 
@@ -71,7 +64,10 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |[cite: 1, 2]
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |
 
 <!-- Footer Banner (Animated wave background, crisp static text) -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
+```[cite: 1, 2]
+
+Con este ajuste el recorrido de lectura es más directo y sobrio: nombre y especialidad en la cabecera, párrafo de presentación sin repeticiones y de inmediato el bloque tecnológico y los proyectos[cite: 1]. ¿Qué te parece cómo queda el ritmo ahora?
