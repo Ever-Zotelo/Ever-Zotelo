@@ -48,7 +48,7 @@ I'm a software developer focused on building structured, reliable applications f
 - **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
   *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features.
 - **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
-  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience[cite: 1, 2]
+  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience
 
 ---
 
