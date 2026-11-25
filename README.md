@@ -10,11 +10,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web[cite: 2]. I care about clear architecture, solid database design, and writing code that other developers can read and scale without friction.
+I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web. I care about clear architecture, solid database design, and writing code that other developers can read and scale without friction.
 
 - 🎯 **Core focus:** Backend services, relational & NoSQL data modeling, mobile apps, and modern web interfaces.
-- ⚡ **How I work:** Structured problem-solving, clean code habits, and consistent version control with Git[cite: 2].
-- 📍 **Location:** Málaga, Spain — open to junior roles, internships, and collaborative tech teams[cite: 2].
+- ⚡ **How I work:** Structured problem-solving, clean code habits, and consistent version control with Git.
+- 📍 **Location:** Málaga, Spain — open to junior roles, internships, and collaborative tech teams.
 
 ---
 
