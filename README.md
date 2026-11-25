@@ -7,9 +7,9 @@
 
 I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
 
-- **Core Focus:** Backend services & APIs, relational/NoSQL databases, mobile apps, and responsive web interfaces[cite: 1, 2]
-- **Engineering Habits:** Object-oriented design, clean code practices, and consistent version control with Git[cite: 2]
-- **Availability:** Based in Málaga, Spain — open to junior developer roles, internships, and team projects[cite: 2]
+- **Core Focus:** Backend services & APIs, relational/NoSQL databases, mobile apps, and responsive web interfaces
+- **Engineering Habits:** Object-oriented design, clean code practices, and consistent version control with Git
+- **Availability:** Based in Málaga, Spain — open to junior developer roles, internships, and team projects
 
 ---
 
@@ -82,11 +82,11 @@ I'm a software developer focused on building structured, reliable applications f
 ### Featured Projects
 
 - **[Project 1 — Backend / API Service](https://github.com/Ever-Zotelo/your-repo-1)**  
-  *Java · Spring Boot · MySQL* — Clear summary of what it builds, how data is structured, and the problem it solves[cite: 1, 2].
+  *Java · Spring Boot · MySQL* — Clear summary of what it builds, how data is structured, and the problem it solves.
 - **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
-  *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features[cite: 1, 2].
+  *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features.
 - **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
-  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience[cite: 1, 2].
+  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience.
 
 ---
 
