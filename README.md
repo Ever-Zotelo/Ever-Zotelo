@@ -9,7 +9,7 @@ I'm a software developer focused on building structured, reliable applications f
 
 - **Core Focus:** Backend services & APIs, relational/NoSQL databases, mobile apps, and responsive web interfaces
 - **Engineering Habits:** Object-oriented design, clean code practices, and consistent version control with Git
-- **Availability:** Based in Málaga, Spain — open to junior developer roles, internships, and team projects
+- **Availability:** Based in Málaga, Spain — open to junior developer roles, internships, and team projects[cite: 1, 2]
 
 ---
 
@@ -48,7 +48,7 @@ I'm a software developer focused on building structured, reliable applications f
 - **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
   *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features.
 - **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
-  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience.
+  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience[cite: 1, 2]
 
 ---
 
@@ -66,10 +66,8 @@ I'm a software developer focused on building structured, reliable applications f
 | Channel | Details |
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
-| **LinkedIn** | [www.linkedin.com/in/ever-zotelo
-
-) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)
+| **LinkedIn** | [linkedin.com/in/ever-zotelo](https://www.linkedin.com/in/ever-zotelo) |
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)[cite: 1, 2]
 
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
