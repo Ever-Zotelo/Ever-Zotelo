@@ -16,66 +16,28 @@ I'm a software developer focused on building structured, reliable applications f
 ### Tech Stack
 
 #### Backend
-<p>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" />
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring Boot" />
-  </a>
-</p>
+[![Java](https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=f97316)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-111827?style=flat-square&logo=spring-boot&logoColor=4ade80)](https://spring.io/projects/spring-boot)
 
 #### Frontend & Web
-<p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" />
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" height="44" alt="React" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS3" />
-  </a>
-</p>
+[![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=flat-square&logo=javascript&logoColor=facc15)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=38bdf8)](https://react.dev/)
+[![HTML5](https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=fb7185)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=60a5fa)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 #### Mobile
-<p>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=kotlin" height="44" alt="Kotlin" />
-  </a>
-  <a href="https://developer.android.com/studio" target="_blank">
-    <img src="https://skillicons.dev/icons?i=androidstudio" height="44" alt="Android Studio" />
-  </a>
-</p>
+[![Kotlin](https://img.shields.io/badge/Kotlin-111827?style=flat-square&logo=kotlin&logoColor=c084fc)](https://kotlinlang.org/)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-111827?style=flat-square&logo=android-studio&logoColor=34d399)](https://developer.android.com/studio)
 
 #### Databases
-<p>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" />
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/Oracle-18181b?style=for-the-badge&logo=oracle&logoColor=f87171" height="44" alt="Oracle" />
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://img.shields.io/badge/PL%2FSQL-18181b?style=for-the-badge&logo=oracle&logoColor=fbbf24" height="44" alt="PL/SQL" />
-  </a>
-</p>
+[![Oracle](https://img.shields.io/badge/Oracle-111827?style=flat-square&logo=oracle&logoColor=f87171)](https://www.oracle.com/database/)
+[![MySQL](https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=38bdf8)](https://www.mysql.com/)
+[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-111827?style=flat-square&logo=oracle&logoColor=fbbf24)](https://www.oracle.com/database/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=4ade80)](https://www.mongodb.com/)
 
 #### Tools & Version Control
-<p>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" />
-  </a>
-</p>
+[![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=fb923c)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=f8fafc)](https://github.com/)
 
 ---
 
@@ -86,7 +48,7 @@ I'm a software developer focused on building structured, reliable applications f
 - **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
   *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features.
 - **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
-  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience.
+  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience[cite: 1, 2].
 
 ---
 
@@ -105,7 +67,7 @@ I'm a software developer focused on building structured, reliable applications f
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)[cite: 1, 2]
 
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
