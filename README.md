@@ -1,5 +1,7 @@
-<!-- Header Banner (Clean & crisp) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:0891b2&height=175&section=header&text=Ever%20Marecos%20Zotelo&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Frontend&descAlignY=66&descSize=16" width="100%"/>
+<!-- Header Banner (Animated GIF in repo: assets/header-banner.gif) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ever-Zotelo/Ever-Zotelo/main/assets/header-banner.gif" width="100%" alt="Ever Marecos Zotelo - Software Developer" />
+</p>
 
 <!-- Animated Role Line -->
 <p align="center">
@@ -10,10 +12,10 @@
 
 ### About Me
 
-I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web. I care about clear architecture, reliable database design, and writing code that other developers can read, test, and scale without friction[cite: 2].
+I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web. I care about clear architecture, reliable database design, and writing code that other developers can read, test, and scale without friction.
 
-- **Core focus:** Backend APIs and services, relational & NoSQL databases, mobile apps, and responsive web interfaces[cite: 1, 2]
-- **Engineering mindset:** Structured problem-solving, clean code practices, and consistent version control with Git[cite: 2]
+- **Core focus:** Backend APIs and services, relational & NoSQL databases, mobile apps, and responsive web interfaces
+- **Engineering mindset:** Structured problem-solving, clean code practices, and consistent version control with Git
 - **Location:** Málaga, Spain — open to junior developer roles, internships, and collaborative engineering teams[cite: 2]
 
 ---
@@ -73,5 +75,7 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 | **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
 | **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)[cite: 1, 2]
 
-<!-- Footer Banner (Clean & crisp) -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:0891b2&height=70&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=15&fontColor=f8fafc&fontAlignY=55" width="100%"/>
+<!-- Footer Banner (Animated GIF in repo: assets/footer-banner.gif) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ever-Zotelo/Ever-Zotelo/main/assets/footer-banner.gif" width="100%" alt="Crafted with care • Málaga" />
+</p>
