@@ -1,73 +1,111 @@
-<!-- Header Banner (Animated wave background, crisp static text) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=200&section=header&text=Ever%20Marecos%20Zotelo&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Frontend&descAlignY=62&descSize=16" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=205&section=header&text=Ever%20Marecos%20Zotelo&fontSize=40&fontColor=f8fafc&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Web&descAlignY=63&descSize=16" width="100%"/>
+
+> *"Turning ideas into clean, practical, and maintainable software across backend, mobile, and web."*
 
 ### About Me
 
-I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web. I care about clear architecture, reliable database design, and writing code that other developers can read, test, and scale without friction.
+I'm a software developer focused on building structured, reliable applications from the data layer up to the user interface. I care about clear architecture, well-modeled databases, and writing readable code that other developers can maintain and scale without friction.
 
-- **Core focus:** Backend APIs and services, relational & NoSQL databases, mobile apps, and responsive web interfaces
-- **Engineering mindset:** Structured problem-solving, clean code practices, and consistent version control with Git
-- **Location:** Málaga, Spain — open to junior developer roles, internships, and collaborative engineering teams
+- **Core Focus:** Backend services & APIs, relational/NoSQL databases, mobile apps, and responsive web interfaces[cite: 1, 2]
+- **Engineering Habits:** Object-oriented design, clean code practices, and consistent version control with Git[cite: 2]
+- **Availability:** Based in Málaga, Spain — open to junior developer roles, internships, and team projects[cite: 2]
 
 ---
 
 ### Tech Stack
 
 #### Backend
-[![Java](https://img.shields.io/badge/Java-27272a?style=flat&logo=openjdk&logoColor=e4e4e7)](https://www.java.com/)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-27272a?style=flat&logo=spring-boot&logoColor=86efac)](https://spring.io/projects/spring-boot)
+<p>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" height="44" alt="Java" />
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" height="44" alt="Spring Boot" />
+  </a>
+</p>
 
 #### Frontend & Web
-[![JavaScript](https://img.shields.io/badge/JavaScript-27272a?style=flat&logo=javascript&logoColor=fde047)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-27272a?style=flat&logo=react&logoColor=67e8f9)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-27272a?style=flat&logo=html5&logoColor=fca5a5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-27272a?style=flat&logo=css3&logoColor=93c5fd)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" height="44" alt="JavaScript" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="44" alt="React" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="44" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="44" alt="CSS3" />
+  </a>
+</p>
 
 #### Mobile
-[![Kotlin](https://img.shields.io/badge/Kotlin-27272a?style=flat&logo=kotlin&logoColor=d8b4fe)](https://kotlinlang.org/)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-27272a?style=flat&logo=android-studio&logoColor=6ee7b7)](https://developer.android.com/studio)
+<p>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kotlin" height="44" alt="Kotlin" />
+  </a>
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://skillicons.dev/icons?i=androidstudio" height="44" alt="Android Studio" />
+  </a>
+</p>
 
 #### Databases
-[![Oracle](https://img.shields.io/badge/Oracle-27272a?style=flat&logo=oracle&logoColor=fca5a5)](https://www.oracle.com/database/)
-[![MySQL](https://img.shields.io/badge/MySQL-27272a?style=flat&logo=mysql&logoColor=7dd3fc)](https://www.mysql.com/)
-[![PL/SQL](https://img.shields.io/badge/PL%2FSQL-27272a?style=flat&logo=oracle&logoColor=fcd34d)](https://www.oracle.com/database/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-27272a?style=flat&logo=mongodb&logoColor=86efac)](https://www.mongodb.com/)
+<p>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="44" alt="MySQL" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="44" alt="MongoDB" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-18181b?style=for-the-badge&logo=oracle&logoColor=f87171" height="44" alt="Oracle" />
+  </a>
+  <a href="https://www.oracle.com/database/" target="_blank">
+    <img src="https://img.shields.io/badge/PL%2FSQL-18181b?style=for-the-badge&logo=oracle&logoColor=fbbf24" height="44" alt="PL/SQL" />
+  </a>
+</p>
 
 #### Tools & Version Control
-[![Git](https://img.shields.io/badge/Git-27272a?style=flat&logo=git&logoColor=fdba74)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-27272a?style=flat&logo=github&logoColor=e4e7eb)](https://github.com/)
+<p>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" height="44" alt="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="44" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 ### Featured Projects
 
-| Project | What It Does | Stack | Repository |
-| :--- | :--- | :--- | :--- |
-| **Project 1** | Concise summary of what the app does and the problem it solves. | `Java` `Spring Boot` `MySQL` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-1) |
-| **Project 2** | Concise summary of your mobile app features and flow. | `Kotlin` `Android Studio` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-2) |
-| **Project 3** | Concise summary of your web app or UI project. | `React` `JavaScript` `CSS` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-3) |
+- **[Project 1 — Backend / API Service](https://github.com/Ever-Zotelo/your-repo-1)**  
+  *Java · Spring Boot · MySQL* — Clear summary of what it builds, how data is structured, and the problem it solves[cite: 1, 2].
+- **[Project 2 — Android Mobile App](https://github.com/Ever-Zotelo/your-repo-2)**  
+  *Kotlin · Android Studio* — Clear summary of the app screens, navigation flow, and main features[cite: 1, 2].
+- **[Project 3 — Web Application](https://github.com/Ever-Zotelo/your-repo-3)**  
+  *React · JavaScript · HTML5 · CSS3* — Clear summary of the interface, component structure, and user experience[cite: 1, 2].
 
 ---
 
-### GitHub Snapshot
+### GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Ever-Zotelo&show_icons=true&hide_border=true&bg_color=18181b&title_color=f4f4f5&text_color=d4d4d8&icon_color=a1a1aa" alt="Ever-Zotelo GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo&layout=compact&hide_border=true&bg_color=18181b&title_color=f4f4f5&text_color=d4d4d8" alt="Top Languages" />
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Ever-Zotelo&show_icons=true&hide_border=true&bg_color=090d16&title_color=38bdf8&icon_color=22d3ee&text_color=e2e8f0" alt="Ever-Zotelo GitHub Stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ever-Zotelo&layout=compact&hide_border=true&bg_color=090d16&title_color=38bdf8&text_color=e2e8f0" alt="Top Languages" />
 </p>
 
 ---
 
-### Get in Touch
+### Contact
 
-| Channel | Link / Details |
+| Channel | Details |
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
 | **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |
 
-<!-- Footer Banner (Animated wave background, crisp static text) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:0891b2&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
-```
-
-Con este ajuste el recorrido de lectura es más directo y sobrio: nombre y especialidad en la cabecera, párrafo de presentación sin repeticiones y de inmediato el bloque tecnológico y los proyectos[cite: 1]. ¿Qué te parece cómo queda el ritmo ahora?
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
