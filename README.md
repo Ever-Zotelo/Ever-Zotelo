@@ -67,7 +67,7 @@ I'm a software developer focused on building structured, reliable applications f
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/ever-zotelo](https://www.linkedin.com/in/ever-zotelo) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)[cite: 1, 2]
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)
 
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,45:172554,100:0e7490&height=115&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=16&fontColor=f8fafc&fontAlignY=68" width="100%"/>
