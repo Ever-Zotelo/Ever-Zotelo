@@ -22,43 +22,45 @@ I'm continuously improving my programming skills through personal projects, coll
 
 ---
 
+
 ## Technologies and Tools
 
 ### Programming Languages
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,js,kotlin&theme=dark](https://skillicons.dev/icons?i=java,js,kotlin\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,kotlin&theme=dark" />
+</p>
 
 ### Frameworks and Libraries
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=react&theme=dark](https://skillicons.dev/icons?i=react\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" />
+</p>
 
 ### Web Development
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=html,css&theme=dark](https://skillicons.dev/icons?i=html,css\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+</p>
 
 ### Databases
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=mysql,mongodb&theme=dark](https://skillicons.dev/icons?i=mysql,mongodb\&theme=dark)" />
-&#x20; \<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg)" width="48" height="48" alt="Oracle" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+</p>
 
-\<p>
-&#x20; \<img src="[https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=databricks\&logoColor=white)" />
-&#x20; \<img src="[https://img.shields.io/badge/PL%2FSQL-C74634?style=flat-square&logo=oracle&logoColor=white](https://img.shields.io/badge/PL%2FSQL-C74634?style=flat-square\&logo=oracle\&logoColor=white)" />
-\</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-C74634?style=flat-square&logo=oracle&logoColor=white" />
+</p>
 
 ### Development Tools
 
-\<p align="left">
-&#x20; \<img src="[https://skillicons.dev/icons?i=androidstudio,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=androidstudio,git,github,vscode\&theme=dark)" />
-\</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,git,github,vscode&theme=dark" />
+</p>
+
 
 ---
 
@@ -119,17 +121,21 @@ A collection of web development exercises focused on HTML structure and CSS styl
 
 ## Contact
 
-\<p align="left">
-&#x20; \<a href="mailto\:emarecoszotelo\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://www.linkedin.com/in/ever-zotelo](https://www.linkedin.com/in/ever-zotelo)">
-&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+
+## Contact
+
+<p align="left">
+  <a href="mailto:emarecoszotelo@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ever-zotelo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ever-Zotelo">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
