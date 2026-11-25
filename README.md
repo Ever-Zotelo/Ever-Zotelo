@@ -1,7 +1,5 @@
-<!-- Header Banner (Moving background, crisp static text) -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 220' width='1200' height='220'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='200%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230f172a'/%3E%3Cstop offset='35%25' stop-color='%231d4ed8'/%3E%3Cstop offset='70%25' stop-color='%230891b2'/%3E%3Cstop offset='100%25' stop-color='%230f172a'/%3E%3CanimateTransform attributeName='gradientTransform' type='translate' from='-0.5 0' to='0.5 0' dur='8s' repeatCount='indefinite'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='1200' height='220' fill='url(%23g)'/%3E%3Ctext x='50%25' y='44%25' dominant-baseline='middle' text-anchor='middle' fill='%23ffffff' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size='44' font-weight='700'%3EEver Marecos Zotelo%3C/text%3E%3Ctext x='50%25' y='68%25' dominant-baseline='middle' text-anchor='middle' fill='%23e0f2fe' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size='19' font-weight='500'%3ESoftware Developer %E2%80%A2 Backend %7C Mobile %7C Frontend%3C/text%3E%3C/svg%3E" width="100%" alt="Ever Marecos Zotelo Banner" />
-</p>
+<!-- Header Banner (Clean & crisp) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:0891b2&height=175&section=header&text=Ever%20Marecos%20Zotelo&fontSize=38&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%E2%80%A2%20Backend%20%7C%20Mobile%20%7C%20Frontend&descAlignY=66&descSize=16" width="100%"/>
 
 <!-- Animated Role Line -->
 <p align="center">
@@ -12,7 +10,7 @@
 
 ### About Me
 
-I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web[cite: 2]. I care about clear architecture, solid database design, and writing code that other developers can read, test, and scale without friction.
+I'm a software developer focused on turning ideas into clean, practical, and maintainable applications across backend, mobile, and web. I care about clear architecture, reliable database design, and writing code that other developers can read, test, and scale without friction[cite: 2].
 
 - **Core focus:** Backend APIs and services, relational & NoSQL databases, mobile apps, and responsive web interfaces[cite: 1, 2]
 - **Engineering mindset:** Structured problem-solving, clean code practices, and consistent version control with Git[cite: 2]
@@ -54,7 +52,7 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 | :--- | :--- | :--- | :--- |
 | **Project 1** | Concise summary of what the app does and the problem it solves. | `Java` `Spring Boot` `MySQL` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-1) |
 | **Project 2** | Concise summary of your mobile app features and flow. | `Kotlin` `Android Studio` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-2) |
-| **Project 3** | Concise summary of your web app or UI project. | `React` `JavaScript` `CSS` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-3) |[cite: 1, 2]
+| **Project 3** | Concise summary of your web app or UI project. | `React` `JavaScript` `CSS` | [View Repo →](https://github.com/Ever-Zotelo/your-repo-3)[cite: 1, 2]
 
 ---
 
@@ -73,9 +71,7 @@ I'm a software developer focused on turning ideas into clean, practical, and mai
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
 | **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
-| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo) |[cite: 1, 2]
+| **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)[cite: 1, 2]
 
-<!-- Footer Banner (Moving background, crisp static text) -->
-<p align="center">
-  <img src="data:image/svg+xml;utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 85' width='1200' height='85'%3E%3Cdefs%3E%3ClinearGradient id='gf' x1='0%25' y1='0%25' x2='200%25' y2='0%25'%3E%3Cstop offset='0%25' stop-color='%230f172a'/%3E%3Cstop offset='35%25' stop-color='%231d4ed8'/%3E%3Cstop offset='70%25' stop-color='%230891b2'/%3E%3Cstop offset='100%25' stop-color='%230f172a'/%3E%3CanimateTransform attributeName='gradientTransform' type='translate' from='-0.5 0' to='0.5 0' dur='8s' repeatCount='indefinite'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='1200' height='85' fill='url(%23gf)'/%3E%3Ctext x='50%25' y='54%25' dominant-baseline='middle' text-anchor='middle' fill='%23f8fafc' font-family='system-ui, -apple-system, Segoe UI, Roboto, sans-serif' font-size='17' font-weight='500'%3ECrafted with care %E2%80%A2 M%C3%A1laga%3C/text%3E%3C/svg%3E" width="100%" alt="Crafted with care • Málaga" />
-</p>
+<!-- Footer Banner (Clean & crisp) -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:1d4ed8,100:0891b2&height=70&section=footer&text=Crafted%20with%20care%20%E2%80%A2%20M%C3%A1laga&fontSize=15&fontColor=f8fafc&fontAlignY=55" width="100%"/>
