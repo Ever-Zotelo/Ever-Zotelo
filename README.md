@@ -66,7 +66,9 @@ I'm a software developer focused on building structured, reliable applications f
 | Channel | Details |
 | :--- | :--- |
 | **Email** | [emarecoszotelo@gmail.com](mailto:emarecoszotelo@gmail.com) |
-| **LinkedIn** | [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) |
+| **LinkedIn** | [www.linkedin.com/in/ever-zotelo
+
+) |
 | **GitHub** | [github.com/Ever-Zotelo](https://github.com/Ever-Zotelo)
 
 <!-- FOOTER BANNER -->
